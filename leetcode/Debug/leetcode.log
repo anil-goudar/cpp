@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Github\C++\leetcode\rotateArray.h(18,13): error C2065: 'vector': undeclared identifier
+D:\Github\C++\leetcode\rotateArray.h(18,23): error C2062: type 'int' unexpected
+  rotate.cpp
+D:\Github\C++\leetcode\rotateArray.h(18,13): error C2065: 'vector': undeclared identifier
+D:\Github\C++\leetcode\rotateArray.h(18,23): error C2062: type 'int' unexpected
+D:\Github\C++\leetcode\rotate.cpp(3,13): error C2065: 'vector': undeclared identifier
+D:\Github\C++\leetcode\rotate.cpp(3,23): error C2062: type 'int' unexpected
+D:\Github\C++\leetcode\rotate.cpp(3,39): error C2143: syntax error: missing ';' before '{'
+D:\Github\C++\leetcode\rotate.cpp(3,39): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

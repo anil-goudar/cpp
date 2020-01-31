@@ -1,0 +1,14 @@
+﻿  helper.cpp
+D:\Github\C++\Project1\helper.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Github\C++\Project1\helper.cpp(147,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\C++\Project1\helper.cpp(156,44): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  main.cpp
+  selectionsort.cpp
+D:\Github\C++\Project1\selectionsort.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Github\C++\Project1\selectionsort.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Project1.vcxproj -> D:\Github\C++\Project1\Debug\Project1.exe
